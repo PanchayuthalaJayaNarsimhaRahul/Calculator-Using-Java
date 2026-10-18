@@ -90,12 +90,3 @@ Input validation to handle invalid entries.
 Support for decimal numbers.
 Improved exit functionality.
 Exception handling for invalid user input.
-👨‍💻 Author
-
-Your Name
-
-Update this section with your name or GitHub username.
-
-📄 License
-
-This project is open source and available for educational and personal use.
